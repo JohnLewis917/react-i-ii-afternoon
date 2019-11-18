@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import './Style.css'
 
@@ -10,7 +9,7 @@ function App() {
       <div className="body">
         <div className="box"></div>
         <p className='text-1'>Previous</p>
-        <p className='text-2'>Next</p>
+        
         
       </div>
       
